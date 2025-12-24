@@ -1,6 +1,6 @@
 # i like to code
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xDefyingGravity&layout=compact&hide=html&langs_count=10&theme=tokyonight&cache=2)
+![Top Languages](https://stats.willyyy.me/api/top-langs/?username=xDefyingGravity&layout=compact&hide=html,javascript,css&langs_count=10&theme=tokyonight&cache=2)
 
 ```asm
     .section __TEXT,__text
